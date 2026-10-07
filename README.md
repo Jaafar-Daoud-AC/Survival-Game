@@ -113,7 +113,7 @@ Each boss has three combat phases, becoming more aggressive as its health decrea
 
 ### Boss Screenshots
 
-![Goblin King](screenshots/boss1_goblin_king.JPG)
+![Goblin King](screenshots/boss1_goblin_king.jpg)
 
 ![Forest Warden](screenshots/boss2_forest_warden.jpg)
 
