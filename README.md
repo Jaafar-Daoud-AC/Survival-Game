@@ -147,5 +147,3 @@ Applied Communications Engineer
 
 GitHub: [Jaafar-Daoud-AC](https://github.com/Jaafar-Daoud-AC)
 
-```
-```
